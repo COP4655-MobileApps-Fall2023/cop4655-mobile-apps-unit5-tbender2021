@@ -1,28 +1,24 @@
-# Project 5 - *BeReal*
+# Project 6 - *BeReal Part Two*
 
 Submitted by: **Vincent Bender**
 
-**BeReal** is an app that allows the user to make posts and see other users posts. The user can sign up, sign in, log out and have their log in information saved until they choose to logout. 
+**BeReal Part two* is an app that introduces the ability to take photos and to have othersd posts limited to ten in the past 24 hours. You also now cannot see others posts unless you post within the last 24 hours.
 
-Time spent: **4** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [X] User can register a new account
-- [X] User can log in with newly created account
-- [X] App has a feed of posts when user logs in
-- [X] User can upload a new post which takes in a picture from photo library and a caption    
+- [X] User can launch camera to take photo instead of photo library
+- [X] User session persists when application is closed and relaunched
+- [X] Users are able to log out and return to sign in page
+- [X] Users are NOT able to see other photos until they upload their own	
  
 The following **optional** features are implemented:
 
-- [ ] Users can pull to refresh their feed and see a loading indicator
-- [X] Users can infinite-scroll in their feed to see past the 10 most recent photos
-- [X] Users can see location and time of photo upload in the feed    
-- [X] User is able to logout
-- [X] User stays logged in when app is closed and open again    
-
+- [ ] User receive notifcation when it is time to post
+- [ ] Users can make comments and view comments in posts	
 
 The following **additional** features are implemented:
 
@@ -32,7 +28,7 @@ The following **additional** features are implemented:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://i.imgur.com/xtSZhZC.gif) .
+[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## Notes
 
